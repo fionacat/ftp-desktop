@@ -43,7 +43,7 @@ java实现模仿filezilla的ftp客户端（大二上java期末大作业）
 添加到队列：将该文件的信息添加到队列中，等待上传
 进入该目录：展开该树节点并列出该目录下的所有文件和目录列表
  
-![](https://github.com/fionacat/ftp-desktop/blob/master/bin/9.png)
+![](https://github.com/fionacat/ftp-desktop/blob/master/bin/9.jpg)
 
 
 
@@ -53,13 +53,13 @@ java实现模仿filezilla的ftp客户端（大二上java期末大作业）
 添加到队列：将该文件的信息添加到队列中，等待上传
 进入该目录：列出该目录下的所有文件和目录列表
 
-![](https://github.com/fionacat/ftp-desktop/blob/master/bin/10.png) 
+![](https://github.com/fionacat/ftp-desktop/blob/master/bin/10.jpg) 
 ## 右键远程文件列表下的任意文件，弹出菜单项
 下载：直接下载该文件（如果文件不符合或本地路径错误，会弹出提示）
 添加到队列：将该项添加到队列准备下载（如果文件不符合或本地路径错误，会弹出提示）
 进入目录：如果是目录，则进入该目录，展开该目录的树节点并展示该目录下的所有文件和目录列表
 
-![](https://github.com/fionacat/ftp-desktop/blob/master/bin/11.png) 
+![](https://github.com/fionacat/ftp-desktop/blob/master/bin/11.jpg) 
 ## 右键点击远程文件选择“下载”或“添加队列”，会弹出提示对话框“请选择一个可添加文件的本地目录”
 （原因在于只选择了远程文件，却没有选择要将文件下载至哪个本地目录）
 
@@ -105,11 +105,11 @@ java实现模仿filezilla的ftp客户端（大二上java期末大作业）
 重置并将选定文件加入队列：清空传输成功标签页并将选定项加入队列
 重置并将选定文件加入队列：清空传输成功标签页并将所有项加入队列
 
-![](https://github.com/fionacat/ftp-desktop/blob/master/bin/18.png) 
+![](https://github.com/fionacat/ftp-desktop/blob/master/bin/18.jpg) 
 
 ## 右键队列标签页的任意项，弹出菜单项
 处理队列：对队列标签页中的文件进行处理，将远程文件下载到对应目录，或将本地文件上传到服务器
 移除选定文件：将选定的文件移出队列
 移除所有：将所有文件都移出
  
-![](https://github.com/fionacat/ftp-desktop/blob/master/bin/19.png)
+![](https://github.com/fionacat/ftp-desktop/blob/master/bin/19.jpg)
