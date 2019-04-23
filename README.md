@@ -1,7 +1,7 @@
 # ftp-desktop
 java实现模仿filezilla的ftp客户端（大二上java期末大作业）
 1．初始界面
- 
+ ![](https://github.com/fionacat/ftp-desktop/blob/master/bin/%E5%88%9D%E5%A7%8B%E7%95%8C%E9%9D%A2.png)
 2．登录界面（输入主机地址，用户名，密码，端口，点击登录后）
  
 
