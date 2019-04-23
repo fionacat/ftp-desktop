@@ -71,12 +71,12 @@ java实现模仿filezilla的ftp客户端（大二上java期末大作业）
 ## 下载单个文件过程
 （将该文件下载到E盘）
 
-![](https://github.com/fionacat/ftp-desktop/blob/master/bin/14.png) 
 如果下载成功
 传输成功的标签页会出现下载成功的文件信息，
 对话框提示传输成功
 重新点击E树节点，会发现目录中有刚刚下载的文件
  
+![](https://github.com/fionacat/ftp-desktop/blob/master/bin/14.png) 
 
 
 ## 可选择任意远程文件和任意本地目录，添加到队列中
